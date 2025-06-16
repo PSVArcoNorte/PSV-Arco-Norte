@@ -1,0 +1,15 @@
+{
+  "name": "Mapa Rutas Colima",
+  "short_name": "Rutas Colima",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Consulta rutas alternativas por obras en Colima.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
