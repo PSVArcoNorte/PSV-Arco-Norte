@@ -1,10 +1,10 @@
 {
   "name": "Mapa Rutas Colima",
-  "short_name": "Rutas Colima",
+  "short_name": "Rutas Alternas PSV",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
-  "description": "Consulta rutas alternativas por obras en Colima.",
+  "description": "Consulta rutas alternativas durante la obra PSV Colima",
   "icons": [
     {
       "src": "icon.png",
